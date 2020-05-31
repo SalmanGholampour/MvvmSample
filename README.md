@@ -5,7 +5,9 @@
 ## About The Project
 
 This is a project a base and simple sample for MVVM architecture
+
 A list of items. Showing data in list.
+
 This project is completing
 
 
