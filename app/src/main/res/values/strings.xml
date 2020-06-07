@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">MvvmSample</string>
-    <string name="rating_title">Rate: %s </string>
-    <string name="list_tile">DOCTORS</string>
+    <string name="app_name">Lillydoo</string>
+
 
 </resources>

@@ -9,7 +9,7 @@ android {
     buildToolsVersion "29.0.2"
 
     defaultConfig {
-        applicationId "com.gholampour.salman.mvvmsample"
+        applicationId "com.gholampour.salman.lillydoo_sample"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
@@ -21,13 +21,13 @@ android {
     buildTypes {
         debug {
 
-            buildConfigField "String", "BASE_URL", '"https://vivy.com/interviews/challenges/android/" '
+            buildConfigField "String", "BASE_URL", '"https://someendpoint.com/" '
         }
 
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            buildConfigField "String", "BASE_URL", '"https://vivy.com/interviews/challenges/android/" '
+            buildConfigField "String", "BASE_URL", '"https://someendpoint.com/" '
 
         }
     }
