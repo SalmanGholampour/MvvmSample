@@ -6,4 +6,3 @@
 ## Contact
 
 Salman Gholampour - [@LinkedIn](https://www.linkedin.com/in/salman-gholampour//) -
-
