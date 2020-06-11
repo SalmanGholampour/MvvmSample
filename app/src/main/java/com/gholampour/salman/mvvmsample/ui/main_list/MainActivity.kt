@@ -31,7 +31,6 @@ class MainActivity() : BaseActivity(),
         setupViews()
         viewModel.loadData()
     }
-
     private fun setupViewModels() {
 
 
